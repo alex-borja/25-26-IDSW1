@@ -2,9 +2,13 @@
 
 ## Modelo UML
 
-Diagrama de una base de datos con los cambios propuestos en la segunda parte del examen parcial:
+Diagrama de clases de una base de datos con los cambios propuestos en la segunda parte del examen parcial:
 
 ![Diagrama de Base de Datos](imagenes/baseDeDatos.png)
+
+Diagrama de objetos:
+
+![Diagrama de objetos](imagenes/diagramadeObjetos.png)
 
 - **Dataset**: Contiene esquemas
 - **Esquema**: Contiene vistas y tablas
