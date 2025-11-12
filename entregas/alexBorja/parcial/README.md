@@ -8,7 +8,7 @@ Diagrama de clases de una base de datos con los cambios propuestos en la segunda
 
 Diagrama de objetos:
 
-![Diagrama de objetos](imagenes/diagramadeObjetos.png)
+![Diagrama de objetos](imagenes/diagramaDeObjetos.png)
 
 - **Dataset**: Contiene esquemas
 - **Esquema**: Contiene vistas y tablas
